@@ -39,15 +39,16 @@ Is a multi-platform portfolio for developers available for mobile, windows and w
 
 ## 🧑 Author
 
-#### s sameer
+#### Muhammad Hamza
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
-)](https://www.linkedin.com/in/s-sameer-512893250)
+)](https://www.linkedin.com/in/mhmzdev)
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
-[![GitHub Follow](https://github.com/dashboard)](https://github.com/ssameer9866)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-hamzashakeel)
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2023 s sameer
+Copyright (c) 2020 MUHAMMAD HAMZA
+
 
